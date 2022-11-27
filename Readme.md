@@ -51,10 +51,8 @@ Or you can access the web application directly via this [LINK.](link.com/)
 *****
 ## Technologies Used
 1. HTML
-2. MdBootstrap
-3. HTML
-4. CSS
-5. JavaScript
+2. CSS
+3. JavaScript
 *****
 ## Contact Information
 * Email : example@gmail.com
